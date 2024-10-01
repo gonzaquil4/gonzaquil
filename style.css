@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-size: cover;
+    color: white;
+    text-align: center;
+     background-image: url(imagenes/acay.jpg); no-repeat center center fixed;
+  }
+  
+  header {
+    background-color: rgba(0, 0, 0, 0.8); /* Añade opacidad al fondo del header */
+    background-image: url(imagenes/Imagen1.jpg) no-repeat center center fixed;
+    background-size: 300px;
+    position: absolute;
+    top: 0; /* Posiciona la imagen en la parte superior */
+    left: 0;
+    width: 100%; /* Ajusta el ancho de la imagen para que cubra todo el contenedor */
+    }
